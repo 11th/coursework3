@@ -1,0 +1,20 @@
+### Add question 1
+GET http://localhost:8080/exam/java/add?question=question1&answer=answer1
+
+### Add question 2
+GET http://localhost:8080/exam/java/add?question=question2&answer=answer2
+
+### Add question 3
+GET http://localhost:8080/exam/java/add?question=question3&answer=answer3
+
+### Add question 4
+GET http://localhost:8080/exam/java/add?question=question4&answer=answer4
+
+### Add question 5
+GET http://localhost:8080/exam/java/add?question=question5&answer=answer5
+
+### Remove question
+GET http://localhost:8080/exam/java/remove?question=question5&answer=answer5
+
+### Get all questions
+GET http://localhost:8080/exam/java
