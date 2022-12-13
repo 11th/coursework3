@@ -1,0 +1,2 @@
+### Get 3 unique questions
+GET http://localhost:8080/exam/get/3

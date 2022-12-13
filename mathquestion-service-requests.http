@@ -1,0 +1,8 @@
+### Add question
+GET http://localhost:8080/exam/math/add?question=question1&answer=answer1
+
+### Remove question
+GET http://localhost:8080/exam/math/remove?question=question1&answer=answer1
+
+### Get all questions
+GET http://localhost:8080/exam/math
